@@ -26,7 +26,7 @@ To setup a new environment with Conda follow these steps:
 5) In Anaconda install JupyterNotebook
 
 
-### Removing thee environment
+### Removing the environment
 To remove the environment repeat steps 1 through 3 above then run the following command
 
 &emsp;&emsp;&gt;conda env remove -n GeospatialConversions
