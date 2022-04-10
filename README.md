@@ -22,5 +22,7 @@ CLUM data can be used to visualise land use across the entire Australian contine
 
 ## References
 [1]	‘About ACLUMP - DAWE’. https://www.awe.gov.au/abares/aclump/about-aclump (accessed Apr. 09, 2022).
+
 [2]	Australian Bureau of Agricultural Resource Economics and Sciences (ABARES), ‘Catchment Scale Land Use of Australia – Update December 2020’. Australian Bureau of Agricultural Resource Economics and Sciences (ABARES), Feb. 26, 2021. doi: 10.25814/AQJW-RQ15.
+
 [3]	‘ABARES - DAWE’. https://www.awe.gov.au/abares
