@@ -18,9 +18,11 @@ https://www.awe.gov.au/abares/aclump/land-use/catchment-scale-land-use-of-austra
 CLUM data can be used to visualise land use across the entire Australian continent using land use codes defined in v8 of the Australian Land Use Management (ALUM) datset.
 
 *Figure 1 : Catchment scale land use of Australia - update december 2020 (Source: ABARES)*
-![Catchment scale land use of Australia - update december 2020 (Source: ABARES)](_images/clum_map_december2020_alum_18class.png)
+<img src="_images/clum_map_december2020_alum_18class.png" alt="Catchment scale land use of Australia - update december 2020 (Source: ABARES)" width="640"/>
 
 ## References
 [1]	‘About ACLUMP - DAWE’. https://www.awe.gov.au/abares/aclump/about-aclump (accessed Apr. 09, 2022).
+
 [2]	Australian Bureau of Agricultural Resource Economics and Sciences (ABARES), ‘Catchment Scale Land Use of Australia – Update December 2020’. Australian Bureau of Agricultural Resource Economics and Sciences (ABARES), Feb. 26, 2021. doi: 10.25814/AQJW-RQ15.
+
 [3]	‘ABARES - DAWE’. https://www.awe.gov.au/abares
