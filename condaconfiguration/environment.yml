@@ -19,6 +19,7 @@ dependencies:
     - plotly
     - pyproj
     - shapely
+    - descartes
     - geopandas
     - geopy
     - folium
