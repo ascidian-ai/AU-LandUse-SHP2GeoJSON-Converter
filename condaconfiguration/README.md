@@ -65,6 +65,9 @@ Sodapy is a Python interface to the SOCRATA API for accessing Open Data.<br>
 An interface to PROJ (cartographic projections and coordinate transformations library).<br>
 **shapely**<br>
 Shapely supports manipulation and analysis of geometric objects in the Cartesian plane.<br>
+**descartes**<br>
+Allows using Shapely or GeoJSON-like geometric objects as matplotlib paths and patches.<br>
+Requires: matplotlib, numpy, and optionally Shapely 1.2+.
 **geopandas**<br>
 Geopandas extends the datatypes used by Pandas to allow spatial operations on geometric types.<br>
 Geometric operations are performed by shapely.<br>
