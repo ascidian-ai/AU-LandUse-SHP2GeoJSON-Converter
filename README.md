@@ -1,6 +1,6 @@
 # Visualising Australian Collaborative Land Use and Management Program (ACLUMP) data and ABARES Regions
 
-#### Repo: https://github.com/ascidian-ai/AU-LandUse-SHP2GeoJSON-Converter
+#### Repo: https://github.com/ascidian-ai/AU-LandUseVisualisation
 
 This project aims to convert and visualise Australian Collaborative Land Use and Management Program (ACLUMP) data and ABARES region and aagis data from ESRI Shape File format to GeoJSON format using the GeoPandas library. 
 
