@@ -1,8 +1,8 @@
-# ESRI Shape File to GeoJSON Converter example using Australian Collaborative Land Use and Management Program (ACLUMP) data
+# Visualising Australian Collaborative Land Use and Management Program (ACLUMP) data and ABARES Regions
 
 #### Repo: https://github.com/ascidian-ai/AU-LandUse-SHP2GeoJSON-Converter
 
-This project aims to convert Australian Collaborative Land Use and Management Program (ACLUMP) data from ESRI Shape File format to GeoJSON format using the GeoPandas library.
+This project aims to convert and visualise Australian Collaborative Land Use and Management Program (ACLUMP) data and ABARES region and aagis data from ESRI Shape File format to GeoJSON format using the GeoPandas library. 
 
 ## Background
 Land use areas, as vector datasets, as collected by individual state and territory governments mapping programs as part of the Australian Collaborative Land Use and Management Program (ACLUMP)[1]. These individual datasets are consolidated and harmonised by the Australian Department of Agriculture into the Catchment Scale Land use of Australia – Commodities – Update December 2020 dataset[2].
