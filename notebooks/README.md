@@ -1,9 +1,9 @@
-# Geospatial Shape to GeoJSON conversion
+# Geospatial Visualisation of Australian Land Use Regions
 ## Example Jupyter Notebooks
 
-Last Updated: 10-Apr-2022
+Last Updated: 12-Apr-2022
 
 This folder contains Jupyter notebooks for the following examples:
-- [CLUM Data ESRI Shape file to GeoJSON conversion](CLUM-ConversionExample.ipynb)
-
+- [ABARES Regions Data Visualisation](ABARESRegions-VisualisationExample.ipynb)
+- [CLUM Regions Data Visualisation](CLUMRegions-VisualisationExample.ipynb)
 
