@@ -20,8 +20,10 @@ dependencies:
     - pyproj
     - shapely
     - descartes
-    - geopandas
+    - geopandas==0.10.2
     - geopy
     - folium
+    - pystac-client
+    - odc-client
     - pip:
-        - sodapy
+        - dea-tools
