@@ -1,29 +1,25 @@
-name: GeospatialConversions
+name: DEAGeospatialAnalysis
 
 channels:
-    - anaconda
-    - conda-forge
     - anaconda-fusion
+    - conda-forge
     - defaults
 
 dependencies:
-    - python=3.8
-    - pip
-    - jupyter
     - requests
     - numpy
-    - pandas
-    - scikit-learn
+    - scikit-learn-intelex
     - matplotlib
     - seaborn
     - plotly
     - pyproj
     - shapely
     - descartes
-    - geopandas==0.10.2
     - geopy
     - folium
+    - geopandas
     - pystac-client
     - odc-stac
     - pip:
         - dea-tools
+        - rasterstats
